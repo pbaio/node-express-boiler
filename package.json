@@ -1,0 +1,32 @@
+{
+  "name": "node-express-boiler",
+  "version": "1.0.0",
+  "description": "Node.js Express Boilerplate",
+  "main": "server.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pbaio/node-express-boiler.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "gulp",
+    "helmet",
+    "server",
+    "boilerplate",
+    "api"
+  ],
+  "author": "Peter Baio <peteb.github@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pbaio/node-express-boiler/issues"
+  },
+  "homepage": "https://github.com/pbaio/node-express-boiler#readme",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "ejs": "^2.5.6",
+    "express": "^4.14.1",
+    "helmet": "^3.4.1"
+  }
+}
